@@ -1,6 +1,6 @@
 {
   "buildCommand": "cd client && pnpm install --no-frozen-lockfile && pnpm run build",
-  "outputDirectory": "client/dist",
+  "outputDirectory": "dist/public",
   "framework": null,
   "installCommand": "pnpm install --no-frozen-lockfile"
 }
